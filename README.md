@@ -1,6 +1,6 @@
 # My Firefox Custom CSS
 
 
-Use ##about:config##
+Use **about:config**
 
-Set ##toolkit.legacyUserProfileCustomizations.stylesheets## to ##TRUE##
+Set **toolkit.legacyUserProfileCustomizations.stylesheets** to **TRUE**
